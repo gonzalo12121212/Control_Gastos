@@ -1,0 +1,9 @@
+{
+  "salary": 0.0,
+  "categories": [
+    "comida",
+    "servicios",
+    "transporte",
+    "ocio"
+  ]
+}
