@@ -1,3 +1,7 @@
+![MIT License](https://img.shields.io/badge/license-MIT-blue)
+![GitHub stars](https://img.shields.io/github/stars/gonzalo12121212/Control_Gastos)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-yellow)
+
 # Gestor de Gastos Completo
 
 Aplicación de escritorio con **Tkinter**, **SQLite**, **Pandas** y **Matplotlib** para llevar el control de ingresos y gastos personales.
